@@ -178,6 +178,7 @@ const styles = StyleSheet.create({
   itemList: {
     fontSize: 16,
     color: '#333333',
+    flexShrink: 1,
   },
   taskButtons: {
     flexDirection: 'row',
